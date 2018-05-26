@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Major</string>
+
+    <string name="action_update">Обновить</string>
+    <string name="mess_no_connection">Нет соединения</string>
+    <string name="mess_error">Что-то пошло не так</string>
+    <string name="mess_error_loading_image">Не удалось зарузить картинку</string>
+
+    <string name="screen_one">Screen one</string>
+    <string name="screen_two">Screen two</string>
+    <string name="empty_description">Привет! \nНажми на кнопку Обновить \nи увидишь список</string>
+</resources>

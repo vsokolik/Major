@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="NoActionBarShadowTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowContentOverlay">@color/transparent</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorControlNormal">@color/accent</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="buttonStyle">@style/Base.Widget.AppCompat.Button.ButtonBar.AlertDialog</item>
+    </style>
+
+    <style name="PrimaryText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textSize">@dimen/primary_text_size</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>

@@ -1,0 +1,20 @@
+.gradle
+/.idea
+local.properties
+*.iml
+!.gitignore
+!build.gradle
+!gradle.properties
+!settings.gradle
+!gradlew
+!gradlew.bat
+/app/build
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено app/
+Будет удалено build.gradle
+Будет удалено gradle.properties
+Будет удалено gradle/
+Будет удалено gradlew
+Будет удалено gradlew.bat
+Будет удалено settings.gradle
